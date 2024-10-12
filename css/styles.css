@@ -117,6 +117,7 @@ color: #434455;
 /* --------Section1------------ */
 .main-hero {
     background-color: #2e2f42;
+    padding: 188px 0;
 }
 
 .hero-container {
@@ -140,7 +141,6 @@ margin-right: auto;
 margin-left: auto;
 margin-top: 0;
 margin-bottom: 0;
-padding: 188px 0;
 }
 
 .main-button {
